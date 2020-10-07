@@ -32,21 +32,21 @@ This C# program compiles into a single executable which automates the installati
 ## Streaming | LSU Video Game Society
 ### Event-wide, weekend-long Streaming Infrastructure 
 Infrastructure set up over a LAN hall which utilises NDI to locally stream to a computer which deals with the master stream to Twitch. These "micro-streams" can be turned on and off from anywhere during the event and will not affect the uptime of the master stream. Allows for persistence of stream but grants the flexibility of showing off every part of our LAN events.
-<iframe src="https://player.twitch.tv/?collection=Z4jjB_9w2hUJEQ&video=506719310&time=0h12m2s&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=SpeedyDreamyDonkeyMoreCowbell&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=Z4jjB_9w2hUJEQ&video=506719310&time=0h12m2s&parent=louis-james.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SpeedyDreamyDonkeyMoreCowbell&parent=louis-james.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Immersive VR User Experience
 Green screen set up with a virtual reality headset to be able to capture footage of members being inside of the games they play at our events.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdDq4_64nbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=SpunkyChillyGaurDansGame&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=HelplessAbstruseStorkNotATK&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SpunkyChillyGaurDansGame&parent=louis-james.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=HelplessAbstruseStorkNotATK&parent=louis-james.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Intractable Tournament Stream Overlay
 This web-based overlay can be imported as a browser source into your streaming software and is used to display the current state of the smash tournament data. It can be controlled from the admin panel and can seamlessly change information such as the current players, bracket and scores.
 
 [To see more about how this works on a technical level, check out the Project section](#web-based-intractable-overlay-for-streams-----github)
-<iframe src="https://clips.twitch.tv/embed?clip=CoyDarkCattleThunBeast&parent=Darkchaos2.github.io&autoplay=false&time=14s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=RepleteMotionlessSoybeanJebaited&parent=Darkchaos2.github.io&autoplay=false&time=30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CoyDarkCattleThunBeast&parent=louis-james.github.io&autoplay=false&time=14s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=RepleteMotionlessSoybeanJebaited&parent=louis-james.github.io&autoplay=false&time=30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Custom Scene Collection Installer
 This executable makes it easy for members to use LSUVGS's assets and themes without having to reconfigure it on every installation. Users can simply run the installer and the pre-configured scenes will be injected into their OBS.
